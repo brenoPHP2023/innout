@@ -34,4 +34,4 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 
-**Desenvolvido por Tavilo Breno | [Seu Portfólio] | www.linkedin.com/in/tavilo-breno-barbosa-pessoa-b11238a2 |**
+**Desenvolvido por Tavilo Breno | www.linkedin.com/in/tavilo-breno-barbosa-pessoa-b11238a2 |**
